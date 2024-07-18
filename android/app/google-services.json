@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521069719833",
+    "project_id": "e-nable-545d3",
+    "storage_bucket": "e-nable-545d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521069719833:android:a171ef283ec27124a41588",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBxPAyD00kiUZay9GM0UFrDRdMt-niW-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
