@@ -35,7 +35,7 @@ dependencies:
     sdk: flutter
   flutter_svg: ^2.0.10+1
   google_fonts: ^6.2.1
-  http: ^1.2.1
+  http: ^1.2.2
   provider: ^6.1.2
   shared_preferences: ^2.2.3
   table_calendar: ^3.1.2
@@ -67,7 +67,6 @@ flutter:
     - assets/check.svg
     - assets/temperature.svg
     - assets/pulse.svg
-    - assets/enable-icon.jpeg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
   # For details regarding adding assets from package dependencies, see
